@@ -1,4 +1,4 @@
-#RUN-Length en/decoding
+**RUN-Length en/decoding**<br />
 This repo is the implementation of run-length en/decoding method. RLE is a simple lossless data compression method which is very suitable for the data with tons of repeat infromaton.<br />
 I first met this compression method is when I was doing airbus-ship-detection project in kaggle. The purpose of this task is to find the ship through the image took by satellite. Due to most of the ships are in the sea, so the most part in image is the information of ocean. Therefore, they use rle encoding method to encode the label of training data.<br />
 <br />
