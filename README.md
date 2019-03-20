@@ -20,3 +20,4 @@ Then we check the rle-encoding function by encoding this label image into encodi
 It works fine! Have a nice day:) <br />
 reference:<br />
 https://en.wikipedia.org/wiki/Run-length_encoding
+https://www.kaggle.com/c/airbus-ship-detection/data
